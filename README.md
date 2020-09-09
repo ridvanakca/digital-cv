@@ -1,6 +1,6 @@
 # Rıdvan Akca
 
-_A front-end development student based in Sariyer/Istanbul, TURKEY_
+_A student learning currently front-end development based in Sariyer/Istanbul, TURKEY_
 
 [Email](akca.ridvann@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ridvanakca/) / [Github](https://github.com/ridvanakca) / [Twitter](https://twitter.com/ridvannakca) / [Medium](https://medium.com/@ridvanakca)
 
