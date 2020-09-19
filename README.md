@@ -42,6 +42,12 @@ _A student learning currently front-end development based in Sariyer/Istanbul, T
 
 * Html-Css-JavaScript _(intermediate)_
 
+## Certification
+
+HTML, CSS, and JavaScript for Web Developers
+
+* [Coursera | Johns Hopkins University](https://coursera.org/share/687418ee1b851f9bd0bca160f2a74a8f)
+
 ## ExtraCurricular Activities
 
 * Member, Bogazici University Cinema Club _(10/2018-Present)_
