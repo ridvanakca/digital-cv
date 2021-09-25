@@ -7,13 +7,19 @@ _A student learning currently front-end development based in Sariyer/Istanbul, T
 
 ## Education
 
+* **Otto-Friedrich-Universitat Bamberg**   -  Bamberg, Germany - _(04/2021-08/2021)_
+
+  * International Information Systems Management  - **Erasmus**    
+
 * **Bogazici University**   -  Istanbul, Turkey - _(09/2017-Present)_
 
-  * Management Information Systems  -    3.51/4.00
-
-* **Alanya Final Temel High School** - Antalya, Turkey
+  * Management Information Systems  -    3.64/4.00
 
 ## Experience
+
+* **Front-end Intern** @ [Tiko](https://tiko.es/en) _(10/2020-03/2021)_
+  
+  * Learning user interface development processes with Angular
 
 * **Mobile Application Development Intern** @ [VBT Information Technology Inc.](https://www.vbt.com.tr/en) _(08/2020-09/2020)_
   
@@ -21,12 +27,9 @@ _A student learning currently front-end development based in Sariyer/Istanbul, T
   * developing projects with Kotlin and Flutter
   * designing mobil application pages with AdobeXd and Zeplin
   
-  
-  
 * **Student Assistant** @ [Bogazici Computer Center](https://cc.boun.edu.tr/en) _(12/2019-04/2020)_
   
-  * developing user interface of two web projects using jquery and angularJs
-
+  * developing user interface of two web projects using html, css, and jquery
   
 ## Language
 
@@ -40,7 +43,9 @@ _A student learning currently front-end development based in Sariyer/Istanbul, T
 
 * Ms Office
 
-* Html-Css-JavaScript _(intermediate)_
+* Html-Css-JavaScript
+
+* Angular
 
 ## Certification
 
